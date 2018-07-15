@@ -1,0 +1,15 @@
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\bin\Debug\KinectExplorer.exe.config
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\bin\Debug\KinectExplorer.exe
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\bin\Debug\KinectExplorer.pdb
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\obj\Debug\App.g.cs
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\obj\Debug\KinectExplorer_MarkupCompile.cache
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\obj\Debug\KinectExplorer_MarkupCompile.lref
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\obj\Debug\MainWindow.baml
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\obj\Debug\KinectExplorer.g.resources
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\obj\Debug\KinectExplorer.exe
+C:\Users\PSW\Documents\Kinect\C#\KinectExplorer\obj\Debug\KinectExplorer.pdb
