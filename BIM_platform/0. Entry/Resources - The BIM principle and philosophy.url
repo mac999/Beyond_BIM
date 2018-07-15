@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://sites.google.com/site/bimprinciple/clients/resources
+[DOC_:0.container]
+BASEURL=https://sites.google.com/site/bimprinciple/clients/resources
+ORIGURL=javascript:''
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://sites.google.com/site/bimprinciple/clients/resources
+IDList=

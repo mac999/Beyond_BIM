@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://bim.psu.edu/Project/resources/default.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://bim.psu.edu/Project/resources/default.aspx
+IDList=
+IconFile=http://bim.psu.edu/favicon.ico
+IconIndex=1

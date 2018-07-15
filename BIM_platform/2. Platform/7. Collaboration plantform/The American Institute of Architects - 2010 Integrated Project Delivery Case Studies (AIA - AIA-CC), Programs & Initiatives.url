@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.aia.org/about/initiatives/AIAB082049
+[DOC_google_ads_iframe_Level3_Nav_L1]
+BASEURL=http://www.aia.org/about/initiatives/AIAB082049
+ORIGURL=about:blank
+[DOC_google_ads_iframe_Level3_Nav_L2]
+BASEURL=http://www.aia.org/about/initiatives/AIAB082049
+ORIGURL=about:blank
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.aia.org/about/initiatives/AIAB082049
+IDList=
+IconFile=http://code.aia.org/i/favicon.ico
+IconIndex=1

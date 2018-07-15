@@ -1,0 +1,27 @@
+GROUP "box"      ! 그룹을 생성할 때는 GROUP...ENDGROUP사이 형상 생성명령 사용
+	BRICK 1, 1, 1
+ENDGROUP
+GROUP "sphere"
+	ADDZ 1
+	SPHERE 0.45
+DEL 1
+ENDGROUP
+GROUP "semisphere"
+	ELLIPS 0.45, 0.45
+ENDGROUP
+GROUP "brick"
+	ADD -0.35, -0.35,0
+	BRICK 0.70, 0.70, 0.35
+	DEL 1
+ENDGROUP
+! 위에서 네개의 그룹을 만들어 이름을 붙이고, box에서 sphere를 뺀다.
+result_1=SUBGROUP("box","sphere")
+! semisphere와 brick을 교차한다.
+result_2=ISECTGROUP("semisphere","brick")
+! 빼고, 교차한 결과로 얻은 형상 result_1, result_2를 합한다.
+result_3=ADDGROUP(result_1,result_2)
+PLACEGROUP result_3		! 합한 result_3 결과를 실제로 형상화시킨다.
+KILLGROUP "box"			! 기존에 생성했던 그룹들은 삭제한다.
+KILLGROUP "sphere"
+KILLGROUP "semisphere"
+KILLGROUP "brick"
